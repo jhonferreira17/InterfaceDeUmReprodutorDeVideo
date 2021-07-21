@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jonata netflix</string>
+    <string name="menu_descriçcao">descricao</string>
+    <string name="menu_favorito">Adicionar aos favoritos</string>
+    <string name="menu_volume">volume</string>
+    <string name="menu_lista_episodio">lista dos episodios</string>
+</resources>
